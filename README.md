@@ -27,7 +27,7 @@ The structure of the project is organized as follows:
 
 
 File Descriptions:
-	•	Test.html: The main HTML file where the structure of the website is defined, including sections like About, Projects, and Contact.
+	•	index.html: The main HTML file where the structure of the website is defined, including sections like About, Projects, and Contact.
 	•	styles.css: Contains the styling for the entire website, including the navigation bar, sections, form styles, and footer.
 	•	images/: A folder containing images used throughout the website, such as My image and Coding image.
 
@@ -48,9 +48,9 @@ cd bicky-speta.git
 
 
 	3.	Open the Test.html file in your browser to view the website:
-	•	Double-click the Test.html file to open it in your default browser.
+	•	Double-click the index.html file to open it in your default browser.
 	4.	To modify or update the project:
-	•	Edit the Test.html for content changes.
+	•	Edit the index.html for content changes.
 	•	Edit the styles.css to update the appearance.
 
 Features
